@@ -1,0 +1,376 @@
+[
+    {
+        "about": "Bestseller",
+        "name": "Air Jordan 4 Retro",
+        "category": "Basketball Shoes",
+        "price": 11495.00,
+        "gender": "Male`s Shoes",
+        "featured": false,
+        "description": "The Nike Air Max 95 By You lets you take inspiration from the human body itself",
+        "colors": [
+            "White"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/f_auto,q_auto/payqzxuewwy0r9jokvdo",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726556885/AIR_JORDAN_4_RETRO-744_vdfoeh.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726556884/AIR_JORDAN_4_RETRO-713_id6xjo.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726556883/AIR_JORDAN_4_RETRO-618_befwkq.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726556882/AIR_JORDAN_4_RETRO-271_zbtr8k.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726556881/AIR_JORDAN_4_RETRO-38_wozox6.png"
+        ],
+        "brand": "Nike",
+        "reating": 4.4
+    },
+    {
+        "about": "Bestseller",
+        "name": "Air Jordan 1",
+        "category": "Classic Shoes",
+        "price": 8295.00,
+        "gender": "Unixsex Shoes",
+        "featured": true,
+        "description": "The Air Jordan 1 Low sets you up with a piece of Jordan history and heritage that's comfortable all day. ",
+        "colors": [
+            "White",
+            "Red",
+            "Green",
+            "Brown"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559172/WMNS_AIR_JORDAN_1_LOW_l533du.png",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559173/WMNS_AIR_JORDAN_1_LOW-3_jxwbsf.jpg",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559174/WMNS_AIR_JORDAN_1_LOW-69_wqhele.jpg",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559174/WMNS_AIR_JORDAN_1_LOW-174_v6rtf0.jpg",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559174/WMNS_AIR_JORDAN_1_LOW-317_qxgezb.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559173/WMNS_AIR_JORDAN_1_LOW-148_iw1qka.jpg"
+        ],
+        "brand": "Nike",
+        "reating": 4.8
+    },
+    {
+        "about": "Bestseller",
+        "name": "Nike Air Force 1 Low EVO",
+        "category": "Classic Shoes",
+        "price": 12795.00,
+        "gender": "Men's Shoes",
+        "featured": false,
+        "description": "The Air Jordan 1 Low sets you up with a piece of Jordan history and heritage that's comfortable all day. ",
+        "colors": [
+            "White"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559781/AIR_FORCE_1_LOW_EVO_lfpwpl.png",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559866/AIR_FORCE_1_LOW_EVO-539_x39lfs.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559869/AIR_FORCE_1_LOW_EVO-126_dgrjk2.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559868/AIR_FORCE_1_LOW_EVO-472_cak6px.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559868/AIR_FORCE_1_LOW_EVO-939_z3kj8c.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726559812/AIR_FORCE_1_LOW_EVO-32_s8pcuw.png"
+        ],
+        "brand": "Nike",
+        "reating": 4.3
+    },
+    {
+        "about": "Sustainable Materials",
+        "name": "Nike Pegasus 41 Premium",
+        "category": "Running Shoes",
+        "price": 12795.00,
+        "gender": "Men's Road Running Shoes",
+        "featured": false,
+        "description": "Responsive cushioning in the Pegasus provides an energised ride for everyday road running. Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole. ",
+        "colors": [
+            "White"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560350/AIR_ZOOM_PEGASUS_41_PRM_c7k5sr.png",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560358/AIR_ZOOM_PEGASUS_41_PRM-181_qt3mg9.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560359/AIR_ZOOM_PEGASUS_41_PRM-409_mq6wfa.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560360/AIR_ZOOM_PEGASUS_41_PRM-593_dk7xc9.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560360/AIR_ZOOM_PEGASUS_41_PRM-593_dk7xc9.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560359/AIR_ZOOM_PEGASUS_41_PRM-676_ostqvp.png"
+        ],
+        "brand": "Nike",
+        "reating": 4.9
+    },
+    {
+        "about": "Promo Exclusive ",
+        "name": "Nike Dunk Low Retro",
+        "category": "Classic Shoes",
+        "price": 8695.00,
+        "gender": "Men's Shoes",
+        "featured": false,
+        "description": "Created for the hardwood but taken to the streets, the basketball icon returns with classic details and throwback hoops flair. Channelling '80s vibes, its padded, low-cut collar lets you take your game anywhere—in comfort.",
+        "colors": [
+            "Gray",
+            "Orange",
+            "Purple"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560891/NIKE_DUNK_LOW_RETRO-520_iczxuo.jpg",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560881/NIKE_DUNK_LOW_RETRO-144_fqy5sr.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560882/NIKE_DUNK_LOW_RETRO-415_vswmiu.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560882/NIKE_DUNK_LOW_RETRO-219_e7de7u.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560887/NIKE_DUNK_LOW_RETRO-612_hpbhil.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726560887/NIKE_DUNK_LOW_RETRO-654_aspoq5.png"
+        ],
+        "brand": "Nike",
+        "reating": 4.5
+    },
+    {
+        "about": "Bestseller",
+        "name": "Air Jordan 1 Mid",
+        "category": "Classic Shoes",
+        "price": 11459.00,
+        "gender": "Men's Shoes",
+        "featured": true,
+        "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity.",
+        "colors": [
+            "Red",
+            "White",
+            "Purple",
+            "Black",
+            "LackGreen"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561313/AIR_JORDAN_1_MID_bzxcmh.png",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561349/AIR_JORDAN_1_MID-483_scoo5a.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561351/AIR_JORDAN_1_MID-540_jxlq45.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561347/AIR_JORDAN_1_MID-208_suozw7.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561348/AIR_JORDAN_1_MID-422_ojjc92.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561317/AIR_JORDAN_1_MID-104_rnwnab.jpg"
+        ],
+        "brand": "Nike",
+        "reating": 5
+    },
+    {
+        "about": "Sustainable Materials",
+        "name": "Nike Precision 7 EasyOn Electric",
+        "category": "Men's Basketball Shoes",
+        "price": 5695.00,
+        "gender": "Men's Shoes",
+        "featured": false,
+        "description": "Step onto the floor with full confidence and take your best shot in the Nike Precision 7—a game-ready basketball shoe for everyone. Made with Nike EasyOn technology, it has a collapsible heel and large midfoot strap to help you tighten the laces and secure the fit using one hand. Fasten the strap in a matter of seconds, check in and make the plays that swing the outcome in your favour.",
+        "colors": [
+            "Multi-Colour"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561851/NIKE_PRECISION_VII_EASYON_OLY_qpvets.png",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561852/NIKE_PRECISION_VII_EASYON_OLY-555_n6nutb.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561852/NIKE_PRECISION_VII_EASYON_OLY-131_co436z.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561852/NIKE_PRECISION_VII_EASYON_OLY-681_evltr4.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561852/NIKE_PRECISION_VII_EASYON_OLY-394_mwmeba.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726561852/NIKE_PRECISION_VII_EASYON_OLY-572_jnykav.png"
+        ],
+        "brand": "Nike",
+        "reating": 3.2
+    },
+
+    {
+        "about": "Availible in SNKRS",
+        "name": "Nike AF-1 Low x ALYX",
+        "category": "Men's Basketball Shoes",
+        "price": 13995.00,
+        "gender": "Men's Shoes",
+        "featured": true,
+        "description": "Modern minimalism meets a classic mainstay in the Nike Air Force 1 x ALYX, our latest collaboration with American fashion icon Matthew M. Williams. His singular vision of premium refinement comes to life in understated yet sleek modifications to the immortal sneaker.",
+        "colors": [
+            "Black"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562227/af-1-low-x-alyx-black-fj4908-001-release-date_mf6azn.webp",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562227/af-1-low-x-alyx-black-fj4908-001-release-date-166_dmujbr.webp",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562227/af-1-low-x-alyx-black-fj4908-001-release-date-459_oiigmr.webp",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562235/af-1-low-x-alyx-black-fj4908-001-release-date-580_xq2inr.webp",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562236/af-1-low-x-alyx-black-fj4908-001-release-date-643_xs506c.webp",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562238/af-1-low-x-alyx-black-fj4908-001-release-date-652_wdheve.webp"
+        ],
+        "brand": "Nike",
+        "reating": 4.7
+    },
+
+    {
+        "about": "Sustainable Materials",
+        "name": "Nike MC Trainer 3",
+        "category": "Men's Workout Shoes",
+        "price": 5695.00,
+        "gender": "Men's Shoes",
+        "featured": false,
+        "description": "Make every gym moment, minute and movement matter. Whether you're racing the clock, gritting through the last set or staying steady through heaves and holds, the MC Trainer 3 can help you hit your fitness intent. The breathable mesh in the upper turns this trainer into a shoe you can wear anywhere. And a flat base brings a level of stability to the motions you love most.",
+        "colors": [
+            "White",
+            "Blue"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562557/M_NIKE_MC_TRAINER_3_yhafr5.png",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562557/M_NIKE_MC_TRAINER_3-226_u3w94p.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562558/M_NIKE_MC_TRAINER_3-608_pqfoks.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562568/M_NIKE_MC_TRAINER_3-658_b4qcuw.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562569/M_NIKE_MC_TRAINER_3-702_mrhc0d.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562573/M_NIKE_MC_TRAINER_3-714_rvnijy.png"
+        ],
+        "brand": "Nike",
+        "reating": 3.9
+    },
+
+    {
+        "about": "Bestseller",
+        "name": "Nike Air Max 1 Essential",
+        "category": "Men's Shoes",
+        "price": 12795.00,
+        "gender": "Men's Shoes",
+        "featured": false,
+        "description": "Meet the leader of the pack. Walking on clouds above the noise, the Air Max 1 blends timeless design with cushioned comfort. Sporting a Max Air unit and mixed materials, this icon hit the scene in '87 and continues to be the soul of the franchise today.",
+        "colors": [
+            "Bage",
+            "Black"
+        ],
+        "coverImage": "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562956/NIKE_AIR_MAX_1_ESS_oif2xx.png",
+        "sizes": [
+            "UK 6",
+            "UK 6.5",
+            "UK 7",
+            "UK 7.5",
+            "UK 8",
+            "UK 8.5",
+            "UK 9",
+            "UK 9.5",
+            "UK 10",
+            "UK 10.5",
+            "UK 11",
+            "UK 12"
+        ],
+        "images": [
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562953/NIKE_AIR_MAX_1_ESS-979_xkjiht.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562951/NIKE_AIR_MAX_1_ESS-883_fdgsuz.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562950/NIKE_AIR_MAX_1_ESS-506_x97f1b.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562949/NIKE_AIR_MAX_1_ESS-116_wtns7a.png",
+            "https://res.cloudinary.com/dtilr7qog/image/upload/v1726562950/NIKE_AIR_MAX_1_ESS-155_cunokm.png"
+        ],
+        "brand": "Nike",
+        "reating": 5
+    }
+]
